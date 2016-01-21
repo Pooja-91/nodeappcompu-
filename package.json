@@ -21,6 +21,10 @@
   "engines": {
     "node": "0.12.7"
   },
+  "scripts":
+  {
+    "start": "node app.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/PoojaKalange/nodeappcompu"
