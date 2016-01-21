@@ -18,9 +18,6 @@
       "nodemailer": "~0.7.1",
     "mysql": "*"
   },
-  "engines": {
-    "node": "0.12.7"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/PoojaKalange/nodeappcompu"
