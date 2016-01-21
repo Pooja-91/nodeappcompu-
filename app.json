@@ -1,0 +1,21 @@
+{
+  "name": "Select_ata",
+  "description": "REST CRUD Example Node.js & Mysql",
+   "repository": "https://github.com/heroku/MobileServiceapi",    
+  "version": "0.0.1",
+  "private": true,
+  "main": "serverF.js",
+  "dependencies": {
+    "body-parser": "1.9.0",
+    "cors": "^2.3.1",
+    "dotenv": "^0.2.8",
+    "ejs": "^1.0.0",
+    "every-moment": "0.0.1",
+    "express": "4.9.5",
+    "express-jwt": "^0.2.1",
+    "express-myconnection": "*",
+    "express-validator": "^2.6.0",
+      "nodemailer": "~0.7.1",
+    "mysql": "*"
+  }
+}
