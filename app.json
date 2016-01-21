@@ -1,7 +1,7 @@
 {
   "name": "Select_ata",
   "description": "REST CRUD Example Node.js & Mysql",
-   "repository": "https://github.com/heroku/MobileServiceapi",    
+   "repository": "https://github.com/PoojaKalange/nodeappcompu",    
   "version": "0.0.1",
   "private": true,
   "main": "serverF.js",
