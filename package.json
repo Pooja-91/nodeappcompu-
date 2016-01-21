@@ -4,7 +4,7 @@
    "repository": "https://github.com/heroku/MobileServiceapi",    
   "version": "0.0.1",
   "private": true,
-  "main": "serverF.js",
+  "main": "serverB.js",
   "dependencies": {
     "body-parser": "1.9.0",
     "cors": "^2.3.1",
@@ -17,5 +17,19 @@
     "express-validator": "^2.6.0",
       "nodemailer": "~0.7.1",
     "mysql": "*"
-  }
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
 }
+
